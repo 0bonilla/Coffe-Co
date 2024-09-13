@@ -1,0 +1,53 @@
+.Title{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #342309;
+    color: #aba080;
+    padding: 1%;
+}
+#body{
+    background-color: #342309;
+}
+#Menu{
+    background-color:#342309;
+    float:left;
+}
+nav{
+    list-style-type: none;
+    padding-bottom: 200%;
+}
+nav ul{
+
+    list-style: none;
+}
+nav ul li{
+    margin: 0%;
+    padding: 30;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    color: #aba080;
+}
+main{
+        background-color: beige;
+}
+.center{
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+.Sub_Title{
+    text-align: center;
+    font-style: italic;
+}
+.Products_title{
+    padding-left: 28%;
+    padding-top: 10px;
+}
+.Products{
+    margin-left: 28%;
+}
+.Product_Images{
+    text-align: left;
+}
